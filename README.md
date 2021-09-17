@@ -1,2 +1,3 @@
-# hello-world
+# Hello-world
 Trying first repository
+Hi!
